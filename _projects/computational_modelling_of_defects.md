@@ -1,5 +1,5 @@
 ---
-title: Computational Modelling of Defect in Battery Materials
+title: Computational Modelling of Defects in Battery Materials
 
 description: |
 
