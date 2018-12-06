@@ -1,0 +1,51 @@
+Ben:
+    display_name: "Ben Morgan" 
+    github: 
+    role: pi
+    #image: 
+    bio: The Boss Man
+
+Conn:
+    display_name: "Conn O'Rourke"
+    webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
+    github: wolverine
+    role: postdoc
+
+Rana:
+    display_name: "Rana Islam"
+    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
+    role: postdoc
+    #image: /img/people/storm.png
+
+Lucy:
+    display_name: "Lucy Morgan (no relation)"
+    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
+    role: postdoc
+    #image: /img/people/storm.png
+
+Dan:
+    display_name: "Dan Davies (Visitor)"
+    #webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
+    role: postdoc
+    #image: /img/people/storm.png
+
+Georgie:
+    display_name: "Georgie Wellock"
+    role: phd
+
+Alex:
+    display_name: "Alex Squires"
+    role: phd
+    image: /img/people/Alex.jpg
+
+Jacob:
+    display_name: "Jacob Dean"
+    role: phd
+
+Daniel:
+    display_name: "Daniel Fritsch"
+    role: alum
+
+ugrad-a:
+    display_name: "Callum Armstrong"
+    role: ugrad
