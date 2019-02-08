@@ -22,7 +22,7 @@ In solid electrolytes, ionic motion is typically effected by a series of discret
 
 ### crystal_torture
 
-[crystal_torture]https://github.com/connorourke/crystal_torture is a Python, Fortran and OpenMP crystal structure analysis module. The module contains a set of classes that enable:
+[crystal_torture](https://github.com/connorourke/crystal_torture) is a Python, Fortran and OpenMP crystal structure analysis module. The module contains a set of classes that enable:
 
 - a crystal structure to be converted into a graph for network analysis
 - connected clusters of crystal sites (nodes) to be retrieved and output
