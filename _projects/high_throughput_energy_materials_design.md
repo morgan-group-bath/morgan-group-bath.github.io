@@ -1,8 +1,7 @@
 ---
 title: High Throughput Design of Energy Materials
 
-description: I am interested in using low-cost screening techniques such as machine learning to explore vast areas of chemical space to suggest new inorganic materials for energy applications.
-My current focus is on the computational discovery of an exciting new class of compounds known as anion redox materials.
+description: I am interested in using low-cost screening techniques such as machine learning to explore vast areas of chemical space to suggest new inorganic materials for energy applications. My current focus is on the computational discovery of an exciting new class of compounds known as anion redox materials.
 
 people:
   - Dan
