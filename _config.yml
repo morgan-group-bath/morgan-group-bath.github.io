@@ -20,7 +20,7 @@ roles:
   - key: phd
     name: PhD Students
   - key: ugrad
-    name: Undergraduate Students
+    name: Project Students
   - key: ugrad-alum
     name: Past Undergraduate Students
   - key: collab
