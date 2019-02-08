@@ -9,7 +9,7 @@ Ben:
 Conn:
     display_name: "Conn O'Rourke"
     webpage: https://scholar.google.co.uk/citations?user=WxSsDaoAAAAJ&hl=en
-    github: wolverine
+    image: /img/people/conn.gif 
     role: postdoc
 
 Rana:
