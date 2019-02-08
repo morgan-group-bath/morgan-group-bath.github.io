@@ -8,7 +8,7 @@ people:
   - Dan
 
 layout: project
-#last-updated: 2015-05-05
+#last-updated: 2019-02-08
 ---
 
 I am interested in using low-cost screening techniques such as machine learning to explore vast areas of chemical space to suggest new inorganic materials for energy applications. I carried out my PhD within the Walsh Materials Design Group as a student in the Centre for Sustainable Chemical Technologies where my project focussed on the use of of empirical rules and data-mining to supplement accurate electronic structure methods for the prediction of new solar energy materials.
