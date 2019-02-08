@@ -3,23 +3,23 @@ Ben:
     github: 
     role: pi
     #image: 
-    bio: The Boss Man
+    #bio:
 
 Conn:
     display_name: "Conn O'Rourke"
-    webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
+    #webpage: 
     github: wolverine
     role: postdoc
 
 Rana:
     display_name: "Rana Islam"
-    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
+    #webpage: 
     role: postdoc
     #image: /img/people/storm.png
 
 Lucy:
-    display_name: "Lucy Morgan (no relation)"
-    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
+    display_name: "Lucy Morgan"
+    #webpage: 
     role: postdoc
     #image: /img/people/storm.png
 
