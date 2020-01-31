@@ -3,13 +3,13 @@ Ben:
     webpage: https://scholar.google.co.uk/citations?user=9rC1niMAAAAJ&hl=en
     github:
     role: pi
-    #image:
+    image: /img/people/ben.jpeg
     #bio:
 
 Conn:
     display_name: "Conn O'Rourke"
     webpage: https://scholar.google.co.uk/citations?user=WxSsDaoAAAAJ&hl=en
-    image: /img/people/conn.gif
+    image: /img/people/conn.jpeg
     role: postdoc
 
 Rana:
@@ -60,13 +60,16 @@ Sam:
     display_name: "Sam Coles"
     webpage: https://scholar.google.co.uk/citations?user=H4tde6gAAAAJ&hl=en
     role: postdoc
+    image: /img/people/sam.jpeg
 
 Kit:
     display_name: "Kit McColl"
     webpage: https://scholar.google.com/citations?user=tGtbQO8AAAAJ&hl=en
     role: postdoc
+    image: /img/people/Kit_Mccoll2.jpg
 
 Adam:
     display_name: "Adam Symington"
     webpage: https://scholar.google.co.uk/citations?user=o7vAYnYAAAAJ&hl=en
     role: postdoc
+    image: /img/people/adam.png
