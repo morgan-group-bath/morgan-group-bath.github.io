@@ -25,13 +25,13 @@ Lucy:
     image: /img/people/Lucy_headshot.JPG
 
 Dan:
-    display_name: "Dan Davies (Visitor)"
+    display_name: "Daniel Davies (Visitor)"
     webpage: https://scholar.google.com/citations?user=XD-sA1MAAAAJ&hl=en
     role: alum
     image: /img/people/dwd.jpg
 
 Georgie:
-    display_name: "Georgie Wellock"
+    display_name: "Georgina Wellock"
     role: alum
 
 Alex:
