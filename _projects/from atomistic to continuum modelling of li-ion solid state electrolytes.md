@@ -1,7 +1,7 @@
 ---
-title: From atomistic to continuum models of interfaces in Li-ion batteries
+title: From Atomistic to continuum models of Interfaces in Li-ion Batteries
 
-description: To investigate the role of defect interactions and grain boundaries in Li-ion solid state electrolytes. By elucidating the effects of these two structural components of Li-ion solid state electrolytes, space-charge regions in these materials can hopefully be appropriately modelled; thus allowing for the true resistive effect of grain boundaries to be understood. 
+description: To investigate the role of defect interactions and grain boundaries in Li-ion solid state electrolytes. By elucidating the effects of these two structural components, space-charge regions in these materials can hopefully be appropriately modelled; thus allowing for the true resistive effect of grain boundaries to be understood. 
 
 people:
   - Jacob
