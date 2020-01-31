@@ -61,7 +61,7 @@ ugrad-b:
     role: ugrad
 
 Sam:
-    display_name: "Sam Coles"
+    display_name: "Samuel Coles"
     webpage: https://scholar.google.co.uk/citations?user=H4tde6gAAAAJ&hl=en
     role: postdoc
     image: /img/people/sam.jpeg
