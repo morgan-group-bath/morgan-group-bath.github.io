@@ -1,15 +1,15 @@
 Ben:
-    display_name: "Ben Morgan" 
+    display_name: "Ben Morgan"
     webpage: https://scholar.google.co.uk/citations?user=9rC1niMAAAAJ&hl=en
-    github: 
+    github:
     role: pi
-    #image: 
+    #image:
     #bio:
 
 Conn:
     display_name: "Conn O'Rourke"
     webpage: https://scholar.google.co.uk/citations?user=WxSsDaoAAAAJ&hl=en
-    image: /img/people/conn.gif 
+    image: /img/people/conn.gif
     role: postdoc
 
 Rana:
@@ -27,12 +27,12 @@ Lucy:
 Dan:
     display_name: "Dan Davies (Visitor)"
     webpage: https://scholar.google.com/citations?user=XD-sA1MAAAAJ&hl=en
-    role: postdoc
+    role: alum
     image: /img/people/dwd.jpg
 
 Georgie:
     display_name: "Georgie Wellock"
-    role: phd
+    role: alum
 
 Alex:
     display_name: "Alex Squires"
@@ -47,6 +47,25 @@ Daniel:
     display_name: "Daniel Fritsch"
     role: alum
 
+
 ugrad-a:
     display_name: "Callum Armstrong"
     role: ugrad
+
+    display_name: "Patrick Taylor"
+    role: ugrad
+
+Sam:
+    display_name: "Sam Coles"
+    webpage: https://scholar.google.co.uk/citations?user=H4tde6gAAAAJ&hl=en
+    role: postdoc
+
+Kit:
+    display_name: "Kit McColl"
+    webpage: https://scholar.google.com/citations?user=tGtbQO8AAAAJ&hl=en
+    role: postdoc
+
+Adam:
+    display_name: "Adam Symington"
+    webpage: https://scholar.google.co.uk/citations?user=o7vAYnYAAAAJ&hl=en
+    role: postdoc
