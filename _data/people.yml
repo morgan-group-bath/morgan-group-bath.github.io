@@ -44,7 +44,7 @@ Jacob:
     display_name: "Jacob Dean"
     role: phd
     webpage: https://j-m-dean.github.io
-    image: jacob.jpg
+    image: /img/people/jacob.jpg
 
 Daniel:
     display_name: "Daniel Fritsch"
