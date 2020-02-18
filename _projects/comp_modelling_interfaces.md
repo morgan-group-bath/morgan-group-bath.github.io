@@ -1,7 +1,7 @@
 ---
 title: Computational Modelling of Elementary Processes at Surfaces and Interfaces
 
-description: 
+description: My current research project involves computational modelling of NMC cathode materials to understanding their applicability in long-range electric vehicles as well as for future all-solid stae batteries. I study the structure, stability and electronic properties, the surface stabilization mechanism and the origin of degredation in NMC811. I employ first principles DFT approaches in order to elucidate these properties. The project is part of the Multi-Scale Modelling project funded by the Faraday Institution. 
 
 people:
   - Rana
