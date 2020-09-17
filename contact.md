@@ -19,4 +19,4 @@ title: Contact
 
 **Alex Squires:** a.g.squires@bath.ac.uk
 
-**Jacob Dean:** j.m.dean@bath.ac.uk
+**Jacob M. Dean:** j.m.dean@bath.ac.uk
