@@ -13,18 +13,12 @@ permalink: /blog/:year/:month/:day/:title.html
 roles:
   - key: pi
     name: PI
-  - key: staff
-    name: Staff
   - key: postdoc
     name: Researchers
   - key: phd
     name: PhD Students
   - key: ugrad
     name: Project Students
-  - key: ugrad-alum
-    name: Past Undergraduate Students
-  - key: collab
-    name: Collaborators
   - key: alum
     name: Alumni
   - key: visit
