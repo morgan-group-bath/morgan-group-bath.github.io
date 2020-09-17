@@ -44,7 +44,7 @@ Jacob:
     display_name: "Jacob Dean"
     role: phd
     webpage: https://j-m-dean.github.io
-    image: /img/people/jacob.jpg
+    image: /img/people/jacob.png
 
 Daniel:
     display_name: "Daniel Fritsch"
@@ -77,3 +77,9 @@ Adam:
     webpage: https://scholar.google.co.uk/citations?user=o7vAYnYAAAAJ&hl=en
     role: postdoc
     image: /img/people/adam.png
+
+Andrew:
+    display_name: "Andrew McCluskey"
+    webpage: https://scholar.google.com/citations?user=r30JJUQAAAAJ&hl=en
+    role: Visiting lecturer
+    image: /img/people/andrew.JPG
